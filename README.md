@@ -4,7 +4,7 @@
 ### <strong>👇 Write this in your terminal</strong>
 
 ```bash
-npx croluy
+npm i croluy && npx croluy
 ```
 
 <br/>
