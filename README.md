@@ -13,5 +13,3 @@ npm i croluy && npx croluy
 
 - 👋 Hi there, I’m [@croluy](https://github.com/Croluy)
 - 👀 I’m interested in Computer Science in general.
-- 🌱 I do enjoy several programming language like C, C++, Java, JS, PHP, Go and Python.
-- 📫 You can reach me on Telegram at [@croluy](https://t.me/croluy)
