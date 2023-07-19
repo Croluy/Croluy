@@ -10,3 +10,5 @@
 ```bash
 npx croluy@latest
 ```
+
+*If it's the first time you run this command or if I have recently updated this package, you will be asked if you want to install the newest version. You should accept that.*
