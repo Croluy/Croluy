@@ -3,7 +3,7 @@
 👀 I’m interested in Computer Science in general.
 <br>
 <br>
-<strong>If you have NodeJS installed, you can connect with me directly via a terminal</strong>
+<strong>If you have <a href="https://nodejs.org/">NodeJS</a> installed, you can connect with me directly via a terminal</strong>
 
 ### <strong>👇 Write this in your terminal</strong>
 
